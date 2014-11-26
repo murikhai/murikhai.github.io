@@ -25,7 +25,7 @@ a{
 }
 h1{
 	margin:0px;
-	padding:20px 20px 10px 20px;
+	
 	font-size:34px;
 	color:#333;
     text-shadow:1px 1px 1px #fff;
@@ -118,6 +118,9 @@ p {
     text-align: center;
     margin: 0 auto;
     font-size: 1.3em;
+}
+#color {
+    color: red;
 }
 form .input1 {
     margin: auto;
