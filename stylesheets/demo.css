@@ -115,6 +115,7 @@ h1 span{
 }
 
 p {
+    max-width: 580px;
     text-align: center;
     margin: 0 auto;
     font-size: 1.3em;
@@ -127,6 +128,7 @@ form .input1 {
     display: block;
     width: 90%;
     max-width: 560px;
+    color:blue;
 }
 
 .live {

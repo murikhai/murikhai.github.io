@@ -1,0 +1,40 @@
+/* ----------------------------------
+ * Buttons
+ * ---------------------------------- */
+
+
+
+
+ .buttons{
+  text-align: center;
+  width: 100px;
+  margin: 2px auto;
+  
+  -moz-box-sizing: border-box;
+  display: block;
+  vertical-align: middle;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  
+  background: #008caa;
+box-shadow:         0px 1px 1px 0px rgba(50, 50, 50, 1);
+
+  border: ;
+  border-radius: 1rem;
+  font-weight: normal;
+  
+  line-height: 3rem;
+  color: black;
+  
+  text-decoration: none;
+  outline: none;
+}
+
+
+/* Pressed */
+a:hover
+{
+  text-decoration: none;
+  background-color: #b2f2ff;
+  color: #fff;
+}
