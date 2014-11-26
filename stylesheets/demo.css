@@ -125,3 +125,7 @@ form .input1 {
     width: 90%;
     max-width: 560px;
 }
+
+.live {
+    margin: 0 auto;
+}
