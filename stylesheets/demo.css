@@ -115,7 +115,7 @@ h1 span{
 }
 
 p {
-    max-width: 500px;
+    text-align: center;
     margin: 0 auto;
     font-size: 1.3em;
 }
@@ -127,5 +127,5 @@ form .input1 {
 }
 
 .live {
-    margin: 0 auto;
+    text-align:center;
 }
