@@ -1,5 +1,6 @@
 .view {
-   width: 260px;
+   max-width: 700px;
+   min-width: 250px;
    height: 100%;
    margin: 0 auto;
    border: 5px solid #fff;
@@ -29,7 +30,7 @@
    margin: 0 0 0 0;
 }
 .view p {
-    width: 240px;
+   
    font-family: Georgia, serif;
    font-style: italic;
    font-size: 15px;
