@@ -2,7 +2,7 @@
    max-width: 550px;
    min-width: 250px;
    height: 100%;
-   margin: 0 auto;
+   margin: 0 auto 1px;
    border: 6px double #fff;
    overflow: hidden;
    position: relative;
