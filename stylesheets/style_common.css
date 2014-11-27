@@ -57,5 +57,6 @@
 }
 
 .view a.info:active {
-    background: #666;
+    background: #888;
+    color: #000;
 }
