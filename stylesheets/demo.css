@@ -38,7 +38,16 @@ h1 span{
 	font-size: 14px;
     font-family: Georgia, serif;
     font-style: italic;
-	color:#b2891b;
+	font-weight: bold;
+	padding-top:10px;
+}
+h1 span:hover{
+   
+	color:#000;
+    font-family: Georgia, serif;
+    font-style: italic;
+	
+    
 	padding-top:10px;
 }
 /* Header Style */

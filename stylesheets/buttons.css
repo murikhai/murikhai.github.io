@@ -9,14 +9,14 @@
   text-align: center;
   width: 100px;
   margin: 2px auto;
-  
+  color: #1fa67a;
   -moz-box-sizing: border-box;
   display: block;
   vertical-align: middle;
   text-overflow: ellipsis;
   white-space: nowrap;
   
-  background: #008caa;
+  background: #101010;
 box-shadow:         0px 1px 1px 0px rgba(50, 50, 50, 1);
 
   border: ;
@@ -24,8 +24,6 @@ box-shadow:         0px 1px 1px 0px rgba(50, 50, 50, 1);
   font-weight: normal;
   
   line-height: 3rem;
-  color: black;
-  
   text-decoration: none;
   outline: none;
 }
@@ -35,6 +33,6 @@ box-shadow:         0px 1px 1px 0px rgba(50, 50, 50, 1);
 a:hover
 {
   text-decoration: none;
-  background-color: #b2f2ff;
+  background-color: #666;
   color: #fff;
 }
