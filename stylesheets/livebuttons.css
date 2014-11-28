@@ -1,0 +1,42 @@
+/* ----------------------------------
+ * Buttons
+ * ---------------------------------- */
+
+
+
+
+ .livebuttons{
+  
+  width: 100px;
+  text-align: center;
+  color: #1fa67a;
+  -moz-box-sizing: border-box;
+  display: block;
+  vertical-align: middle;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  display: inline-block;
+  background: #101010;
+box-shadow:         0px 1px 1px 0px rgba(50, 50, 50, 1);
+
+  border: ;
+  border-radius: 1rem;
+  font-weight: normal;
+  
+  line-height: 3rem;
+  text-decoration: none;
+  outline: none;
+}
+.active {
+    text-decoration: none;
+  background-color: #666;
+  color: #fff;
+}
+
+/* Pressed */
+a:hover
+{
+  text-decoration: none;
+  background-color: #666;
+  color: #fff;
+}

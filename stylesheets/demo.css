@@ -123,14 +123,7 @@ h1 span:hover{
 	color:#fff;
 }
 
-p {
-    max-width: 580px;
-    text-align: center;
-    margin: 0 auto;
-    font-size: 1.3em;
-}
-#color {
-    color: red;
+    
 }
 form .input1 {
     margin: auto;
@@ -139,9 +132,25 @@ form .input1 {
     max-width: 560px;
     color:blue;
 }
+.channel {
+    text-align: center;
+    margin: 0 auto;
+    
+}
 
 .live {
-    text-align:center;
+    margin-top: 0;
+    
+    
+}
+.adblok {
+    
+    
+}
+.adblok p {
+    margin-top: 50px;
+    font-size: 14px;
+    color: red;
 }
 
 footer {
