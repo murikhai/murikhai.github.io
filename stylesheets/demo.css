@@ -127,7 +127,6 @@ h1 span:hover{
     text-align: center;
     padding: 5px 10px;
     font-size: 15px;
-    
     font-weight: bold;
 } 
 
@@ -138,6 +137,7 @@ input {
     max-width: 560px;
     color:blue;
     text-align: center;
+    background-color: #fefbb1;
 }
 .channel {
     text-align: center;
