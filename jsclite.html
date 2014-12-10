@@ -32,6 +32,7 @@
 <li class="active"><a href="http://murikhai.github.io/jscarch">Home</a></li>
 <li><a href="http://murikhai.github.io/allresults">All Results</a></li>
 <li><a href="http://murikhai.github.io/faq">FAQ</a></li>
+    <li><div style="margin:14px 0 0 12px;" class="fb-like" data-href="http://murikhai.github.io/jsclite" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div></li>
 </ul>
 <ul class="nav navbar-nav navbar-right">
 
@@ -44,6 +45,14 @@
 <script src="lib/examboard.js"></script>
 <script src="lib/validator.js"></script>
 <body style="width:100%; margin:0 auto; background-image:url('images/pattern1.png')">
+    <div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&appId=129998480504162&version=v2.0";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
     
 <form name="result" method="post" action="http://www.educationboardresults.gov.bd/lite/result.php" onsubmit="return app_form_validator(this)">
 <input type="hidden" name="sr" id="sr" value="3" />
