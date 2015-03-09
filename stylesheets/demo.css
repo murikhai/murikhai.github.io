@@ -163,6 +163,7 @@ input {
 }    
 .worldcup img {
     float: right;
+    padding-top: 300px;
 }
 
 .adblok {
