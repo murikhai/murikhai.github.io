@@ -157,6 +157,10 @@ input {
     width: 1000px;
     
 }    
+.worldcup h1{
+    float:left;
+    
+}    
 .worldcup img {
     float: right;
 }
