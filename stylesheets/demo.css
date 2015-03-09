@@ -140,7 +140,7 @@ input {
     background-color: #fefbb1;
 }
 .channel {
-    text-align: left;
+    text-align: center;
     margin: 0 auto;
     
 }
@@ -150,6 +150,15 @@ input {
     
     
 }
+
+.worldcup {
+    width: 1050px;
+    
+}    
+.worldcup img {
+    float: right;
+}
+
 .adblok {
     
     
