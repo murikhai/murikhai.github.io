@@ -147,9 +147,10 @@ input {
 
 .live {
     margin-top: 0;
+    
+}
+.live h1 {
     float: left;
-    
-    
 }
 
 .worldcup {
