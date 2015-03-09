@@ -152,7 +152,8 @@ input {
 }
 
 .worldcup {
-    width: 1050px;
+    margin: 0 auto;
+    width: 1000px;
     
 }    
 .worldcup img {
